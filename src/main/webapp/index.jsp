@@ -1,5 +1,5 @@
 <html>
-  <body style="background-color:Black">
+  <body style="background-color:Teal">
     <h1 style="color:Silver;text-align:center;font-size:500%;">Mercedes-Benz USA</h1>
     <h3 style="color:Ivory;text-align:center;font-size:125%;"><i>The BEST or Nothing at All</i> &nbsp;-&nbsp; Daimler</h3>
     <br>
