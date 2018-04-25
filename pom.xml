@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>Kubernetes-Demo</groupId>
-  <artifactId>miracle-helloworld</artifactId>
+  <artifactId>miracle-devops-webpage</artifactId>
   <packaging>war</packaging>
   <version>V-SNAPSHOT</version>
-  <name>miracle-helloworld Maven Webapp</name>
+  <name>miracle-devops-webpage Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
 

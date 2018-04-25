@@ -19,7 +19,7 @@
         <li><b>Jfrog Artifactory</b> as an Artifact Repository</li>
         <li><b>SonarQube</b> for Code Scanning</li>
         <li><b>Docker</b> for hosting JBoss Run Time</li>
-      <li><b>Kubernetes</b> for orchestrating Docker containers for Deployment</li>
+        <li><b>Kubernetes</b> for orchestrating Docker containers for Deployment</li>
     </ul>
   </body>
 </html>
