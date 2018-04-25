@@ -1,5 +1,5 @@
 FROM jboss/wildfly
 
-ADD miracle-helloworld.war /opt/jboss/wildfly/standalone/deployments/
+ADD miracle-devops-webpage.war /opt/jboss/wildfly/standalone/deployments/
 
 
