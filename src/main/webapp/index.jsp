@@ -1,5 +1,5 @@
 <html>
-  <body style="background-color:Black">
+  <body style="background-color:Red">
     <h1 style="color:Silver;text-align:center;font-size:500%;">Kubernetes Demo</h1>
     <h3 style="color:Ivory;text-align:center;font-size:125%;"><i>DevOps Team</i> &nbsp;-&nbsp; Miracle Software Systems</h3>
     <br>
